@@ -1,0 +1,28 @@
+#title {
+    color: gold;
+    background-color: orange;
+    text-align: center;
+}
+
+.items {
+    font-size: 18px;
+    font-family: Georgia, serif;
+}
+
+h1 {
+    background-color: orange;
+    color: gold;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 768px;
+}
